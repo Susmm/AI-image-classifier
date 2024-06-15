@@ -45,7 +45,3 @@ Follow these steps to run the app locally within a particular directory:
 
     ```sh
     streamlit run app.py --server.enableXsrfProtection false
-
-## Sample images
-
-Two sample images are also provided in the repository for testing the application.
