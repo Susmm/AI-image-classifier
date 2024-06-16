@@ -1,6 +1,6 @@
 # AI-image-classifier
 
-A deep convolutional neural network, '**insightnet**', is trained on a dataset named '**deepfake**' consisting of **412** images of two classes: 'ai-generated' and 'real' person images in order to discriminate between the two. These images were prepared by scraping images from Google search results using Selenium and split into train, test, and validation sets in a ratio of 75:15:10.
+A deep convolutional neural network, **insightnet**, is trained on a dataset named **deepfake** consisting of **412** images of two classes: 'ai-generated' and 'real' person images in order to discriminate between the two. These images were prepared by scraping images from Google search results using Selenium and split into train, test, and validation sets in a ratio of 75:15:10.
 
 ## Dataset
 
@@ -10,7 +10,7 @@ The web scraping code and the dataset creation scripts are provided in `scrapewe
 
 ## Model
 
-The model '**insightnet**'s training and testing code is provided in the notebook `insightnet.ipynb`.
+The model **insightnet**'s training and testing code is provided in the notebook `insightnet.ipynb`.
 
 The trained model can be downloaded from [this link](https://drive.google.com/file/d/18XCwg0auP2xqTAsSOE4IL01fbeCUdlDH/view?usp=sharing).
 
