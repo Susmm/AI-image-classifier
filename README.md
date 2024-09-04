@@ -48,5 +48,5 @@ Follow these steps to run the app locally within a particular directory:
 
 ## Testing the application 
 
-Upload an image of a person in jpg, jpeg or png format (size >= **224*224** px) and classifier will classify it as real or ai-generated.
+Upload an image of a person in jpg, jpeg or png format (size >= **224*224** px) and classifier will classify it as real or ai-generated.   
 
